@@ -1,5 +1,5 @@
 ## Muhammadjasur
-#### Frontend Developer jr
+#### Frontend Dev
 ###### Skills
 * HTML
 * CSS
